@@ -25,4 +25,4 @@ def producer(some_data_source):
     # callbacks to be triggered.
     p.flush()
 
-producer(['{"name" : "guillaume"}'])
+producer(['{"text" : "Hello World"}'])
