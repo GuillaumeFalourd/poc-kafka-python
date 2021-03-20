@@ -1,1 +1,1 @@
-# poc-kafka-python
+# kafka-python
